@@ -51,7 +51,7 @@ applications and follow-ups. Employers enjoy an autonomous headhunter experience
 #### Certifications & Affiliations
 
 - In the process of applying for VOSB and SDVOSB.
-- CEO, Blaise Pascual, is a member of the Veterans in Data Science and Machine Learning professional community.
+- Founder, Blaise Pascual, is a member of the Veterans in Data Science and Machine Learning professional community.
 
 
 
