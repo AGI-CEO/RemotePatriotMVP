@@ -54,8 +54,11 @@ applications and follow-ups. Employers enjoy an autonomous headhunter experience
 - Founder, Blaise Pascual, is a member of the Veterans in Data Science and Machine Learning professional community.
 
 #### Autonomous Agent Hackathon Tech Used
+
 Weaviate - Vector DB
+
 SuperAGI - Autonomous Agent
+
 Langchain Python - Custom Vector Embedding Script
 
 
