@@ -5,6 +5,13 @@
 
 # <p align="center"> Revolutionizing Remote Work for Disabled Veterans </p>
 
+
+<p align="center">
+   <a href="https://lablab.ai/event/autonomous-agents-hackathon/langlabs/remote-patriot">
+    <img src="https://github.com/jetblaise/RemotePatriotMVP/blob/main/Remote%20Patriot%20Demo.1.gif" alt="click here" />
+  </a>
+</p>
+
 ## Mission
 RemotePatriot.com is pioneering a new era in remote work by sourcing disabled
 veterans with meaningful opportunities. Leveraging cutting-edge LLM autonomous
@@ -15,6 +22,7 @@ the way veterans find and secure remote work.
 To transform the job-seeking experience for disabled veterans, providing a seamless
 and empowering process where AI-driven agents actively match veterans with ideal job
 positions, setting a new industry standard.
+
 
 #### Core Competencies
 
